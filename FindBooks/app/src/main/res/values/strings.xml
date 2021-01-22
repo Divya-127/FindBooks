@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Find Books</string>
+    <string name="e_mail">E - Mail</string>
+    <string name="password">Password</string>
+    <string name="title_activity_books">BooksActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">USER</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_addBooks">Add Books</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_books">Add Books</string>
+    <string name="select_file">SELECT FILE</string>
+    <string name="no_file_selected_currently">No File Selected Currently</string>
+    <string name="upload">Upload</string>
+    <string name="search">Search</string>
+    <string name="find_books">Find Books</string>
+    <string name="settings">Settings</string>
+</resources>
